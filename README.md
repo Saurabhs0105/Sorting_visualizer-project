@@ -4,6 +4,9 @@ I developed this Sorting visualizer  project  using HTML ,  CSS , SCRIPT languag
 
 Implemented algorithms:
 
+Bubble Sort 
+Selection sort
+
 1 Bubble sort
 2 Selection sort
 3 Insertion sort
