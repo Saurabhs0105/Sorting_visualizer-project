@@ -4,12 +4,12 @@ I developed this Sorting visualizer  project  using HTML ,  CSS , SCRIPT languag
 
 Implemented algorithms:
 
-Bubble sort
-Selection sort
-Insertion sort
-Merge sort
-Quick sort
-Heap sort
+1 Bubble sort
+2 Selection sort
+3 Insertion sort
+4 Merge sort
+5 Quick sort
+6 Heap sort
 Features:
 
 Colored representation of step being executed. 1.1) Blue:default 1.2) Yellow: Being compared 1.3) Red: Identified as in incorrect position and to be moved 1.4) Green: In correct position
